@@ -18,6 +18,7 @@ clean install deploy
   * src/test/resources/Workflow Council Int test - Complicated Workflow.xml
   * src/test/resources/Workflow Council Int test - Pre-existing post-function.xml
   * src/test/resources/Workflow Council Int test - Simple Workflow.xml
+* Install the Jira Workflow Council Add-On in your non-production Jira Software instance.
 * Access the following end-point.
 
 ```
